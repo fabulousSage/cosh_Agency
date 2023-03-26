@@ -193,9 +193,10 @@ const HeroSection = () => {
             <Circle />
             <span>We Build Web</span>
           </Topic>
-          <Title>Transforming your digital presence</Title>
+          <Title>Transforming Your Digital Presence</Title>
           <SubText>
-            we help fast growing companies build award winning websites
+          Digital Branding Solutions. <br/>
+          We help fast growing companies build award winning websites
           </SubText>
           <CTA>
             Get in touch &nbsp;

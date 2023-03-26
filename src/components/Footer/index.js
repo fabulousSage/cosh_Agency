@@ -47,10 +47,7 @@ const Footer = () => {
   return (
     <FOOTER>
       <LeftText>
-        © 2023 Built and Designed by{" "}
-        <a href="/">
-          @CoshLabs
-        </a>
+        © 2023  @CoshLabs
       </LeftText>
       <RightText>
         Reach out to me via 😉

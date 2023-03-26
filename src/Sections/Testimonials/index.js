@@ -97,7 +97,7 @@ const Testimonials = () => {
 
           <Card
             text="Our company would not function without CoshLabs. CoshLabs has my unqualified endorsement. Being with them has been incredible."
-            name="Jenny (CodeCall)"
+            name="CP"
             image="avatar-3"
           />
 

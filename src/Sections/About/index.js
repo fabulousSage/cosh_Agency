@@ -131,7 +131,7 @@ const About = () => {
         </div>
         <Content>
           <Rocket>
-            <img src={rocket} alt="" width="400" height="400" />
+            <img src={rocket} alt="" width="200" height="200" />
           </Rocket>
           <AboutText>
             <Human>
@@ -139,10 +139,9 @@ const About = () => {
             </Human>
 
             <Text>
-              We help our customers to tell about themselves, to grow and stand
-              out in an increasingly competitive digital world, through creative
-              projects that are able to attract and involve, creating strategic
-              value.
+            We are a creative firm that has served clients for years. 
+            We've collaborated with a lot of startups and businesses to create designs that actually have an impact. We eagerly anticipate developing brands,
+              products, and digital experiences that appeal to the audiences of our clients.
             </Text>
             <div>
               <Circle style={{ backgroundColor: "var(--purple)" }} />
