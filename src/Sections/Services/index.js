@@ -108,7 +108,7 @@ const OBJ = styled.div`
   justify-content: center;
   align-items: center;
   width: 20vw;
-  /* z-index: 1; */
+  z-index: 1;
 
   @media only Screen and (max-width: 48em) {
     opacity: 0.5;
@@ -327,7 +327,7 @@ const Services = () => {
       <Content ref={addToRefs}>
         <TextBlock
           topic="Design"
-          title={<h1>We build award winning Designs</h1>}
+          title={<h1>We Build Award Winning Designs</h1>}
           subText={
             <h5>
               We help clients to build great design to attract more customers
@@ -342,7 +342,7 @@ const Services = () => {
       <Content ref={addToRefs}>
         <TextBlock
           topic="Develop"
-          title={<h1>We Develop high quality Web & App</h1>}
+          title={<h1>We Develop High Quality Web & App</h1>}
           subText={
             <h5>
               We build appropriate solution to develop your website & app with
@@ -358,7 +358,7 @@ const Services = () => {
       <Content>
         <TextBlock
           topic="Support"
-          title={<h1>We provide support for your digital presence</h1>}
+          title={<h1>We Provide Support For Your Digital Presence</h1>}
           subText={
             <h5>
               Once your system is online, we will stay on hand to help you use

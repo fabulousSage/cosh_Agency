@@ -1,6 +1,6 @@
 import styled from "styled-components";
 import Twitter from "../../assets/twitter-square-brands.svg";
-import Instagram from "../../assets/instagram-square-brands.svg";
+import Tiktok from "../../assets/tiktok-square-brands.svg";
 import Gmail from "../../assets/envelope-open-solid.svg";
 
 const FOOTER = styled.footer`
@@ -50,13 +50,13 @@ const Footer = () => {
         © 2023  @CoshLabs
       </LeftText>
       <RightText>
-        Reach out to me via 😉
+        Reach out to me via
         <a href="https://twitter.com/coshlabs">
           <img src={Twitter} alt="Twitter" />
         </a>
         &nbsp;
-        <a href="https://www.instagram.com/coshlabs/">
-          <img src={Instagram} alt="Instagram" />
+        <a href="https://www.tiktok.com/coshlabs/">
+          <img src={Tiktok} alt="Tiktok" />
         </a>
         &nbsp;
         <a href="mailto:coshlabs@yahoo.com?subject=Email From Your Website">

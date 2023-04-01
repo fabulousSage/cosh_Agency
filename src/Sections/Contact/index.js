@@ -1,7 +1,7 @@
 import Facebook from "../../assets/facebook-square-brands.svg";
 import LinkedId from "../../assets/linkedin-brands.svg";
 import Twitter from "../../assets/twitter-square-brands.svg";
-import Instagram from "../../assets/instagram-square-brands.svg";
+import Tiktok from "../../assets/tiktok-square-brands.svg";
 import styled from "styled-components";
 
 const ContactSection = styled.section`
@@ -140,8 +140,8 @@ const Contact = () => {
         <a href="https://twitter.com/">
           <img src={Twitter} alt="Twitter" />
         </a>
-        <a href="https://www.instagram.com/">
-          <img src={Instagram} alt="Instagram" />
+        <a href="https://www.tiktok.com/">
+          <img src={Tiktok} alt="Tiktok" />
         </a>
       </Icons>
       <Form>

@@ -142,7 +142,7 @@ const Title = styled.h1`
 
 const SubText = styled.h5`
   font-size: calc(0.5rem + 0.5vw);
-  color: var(--nav2);
+  color: var(--white);
 `;
 
 const CTA = styled.button`
@@ -196,7 +196,7 @@ const HeroSection = () => {
           <Title>Transforming Your Digital Presence</Title>
           <SubText>
           Digital Branding Solutions. <br/>
-          We help fast growing companies build award winning websites
+          We Help Fast Growing Companies Build Award Winning Websites
           </SubText>
           <CTA>
             Get in touch &nbsp;
